@@ -1,0 +1,11 @@
+flask
+flask-cors
+pillow
+numpy
+opencv-python-headless
+torch
+torchvision
+pretrainedmodels
+torchsummary
+pyyaml
+albumentations<2
